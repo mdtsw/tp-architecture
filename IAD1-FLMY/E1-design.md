@@ -29,7 +29,7 @@ Notre objectif est d'avoir un site facile d'utilisation et qu'il soit totalement
 
 Schéma architecture globale :
 
-[images/Image1.png]
+![Alt text](images/Image1.png)
 
 [images/Image2.png]
 
