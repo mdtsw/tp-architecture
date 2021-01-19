@@ -31,25 +31,25 @@ Schéma architecture globale :
 
 ![Alt text](images/Image1.png)
 
-[images/Image2.png]
+![Alt text](images/Image2.png)
 
 Le modèle de donnée stocké :
 
 Nous avons donc effectué une représentation schématique (MCD) pour la visualisation de notre base de données :
 
-[images/Image3.png]
+![Alt text](images/Image3.png)
 
 La stack technique :
 
-[images/Image4.png]
+![Alt text](images/Image4.png)
 
 Nous allons stocker pour la plus grande partie de notre projet sur GitHub afin de pouvoir partager les codes que nous créons.
 
-[images/Image5.png]
+![Alt text](images/Image5.png)
 
 Nous allons utiliser différents langages comme html , css, php. En effet, le java script est un langage de développement des interfaces web, elle fait partie conséquente de la réalisation de notre site web. Le CSS nous permet de faire le design de notre site web. Le PHP est une partie invisible pour l&#39;utilisateur car elle sera exécutée sur nos serveurs en effet c&#39;est la partie qui gère les bases données.
 
-[images/Image6.png]
+![Alt text](images/Image6.png)
 
 Nous allons utiliser la plateforme de développement WAMP, qui est un environnement comprenant trois serveurs (Apache, MySQL et MariaDB), un interpréteur de script (PHP), ainsi que phpMyAdmin pour l&#39;administration Web des bases MySQL.
 Cette plateforme est disponible pour les principaux systèmes d&#39;exploitation Windows (WAMP), Mac OS (MAMP) et Linux (LAMP).
